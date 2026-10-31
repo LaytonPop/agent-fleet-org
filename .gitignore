@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.obsidian/
+
+# node
+node_modules/
+
+# logs
+*.log
